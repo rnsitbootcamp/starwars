@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Star Wars",
+    "slug": "starwars",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://lh3.googleusercontent.com/XGQzo00WzL4Icoftl_cpogskee7YMnEMmJufCmL7Gntr-MlReH8VJA9V3vVsauNjSDVS=s180",
+    "splash": {
+      "image": "https://i.ibb.co/s9xVdwY/4eb69f0ab8ac524347cf0e0a734db5cd.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
